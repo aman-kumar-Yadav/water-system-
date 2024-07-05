@@ -22,6 +22,28 @@ The Water Consumption Monitoring System provides real-time monitoring and analys
 ## Alert Notification on telegram bot:
 <img src="https://github.com/aman-kumar-Yadav/water-monitoring-System/assets/174793485/48de19ce-7707-410d-96d7-6a1be0c9f904" height="500"/>
 
+## working :
+### Water flow meter:
+
+
+
+https://github.com/aman-kumar-Yadav/water-system-/assets/174793485/2ebd5aeb-14cc-45f9-bd4b-1c03dd02771b
+
+
+### water flow meter working demo:
+
+
+https://github.com/aman-kumar-Yadav/water-system-/assets/174793485/2c573a5c-c493-4288-b8d8-8f2902d89ea3
+
+
+### water Leakage detection demo:
+
+
+
+https://github.com/aman-kumar-Yadav/water-system-/assets/174793485/9b7c08cd-cdee-4db4-8e9e-ef90c4aa87bd
+
+
+
 ## Features
 - **Real-Time Monitoring:** Monitor water consumption per faucet in real time.
 - **User-Friendly Interface:** LCD display and web/mobile interface for easy data visualization.
