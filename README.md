@@ -17,7 +17,7 @@ The Water Consumption Monitoring System provides real-time monitoring and analys
 
 ### <b>Future consumption prediction:</b>
 <br>in below image it showing predicted value of water consumption for next day <i>[value in widget is negative because ML algo is running continuously and i took the image after 5 months from date of project creation]</i> <br>
-<img src="https://github.com/aman-kumar-Yadav/water-monitoring-System/assets/174793485/d2bd7d4e-fc12-4091-9e3d-2a73a0c1059b)" height="600" width="500"/> <img src="https://github.com/aman-kumar-Yadav/water-monitoring-System/assets/174793485/b3b85736-a82c-49c4-9b27-b61e8ab41ea0" height="600" width="500"/>
+<img src="https://github.com/aman-kumar-Yadav/water-monitoring-System/assets/174793485/d2bd7d4e-fc12-4091-9e3d-2a73a0c1059b)" height="600" width="450"/> <img src="https://github.com/aman-kumar-Yadav/water-monitoring-System/assets/174793485/b3b85736-a82c-49c4-9b27-b61e8ab41ea0" height="600" width="450"/>
 
 ## Alert Notification on telegram bot:
 <img src="https://github.com/aman-kumar-Yadav/water-monitoring-System/assets/174793485/48de19ce-7707-410d-96d7-6a1be0c9f904" height="500"/>
